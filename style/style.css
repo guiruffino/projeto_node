@@ -1,0 +1,5 @@
+#section1{ background-color: aqua;}
+#section2{ background-color: blue;}
+#section1 , #section2{ display: flex;}
+
+header, footer{ background-color: brown;}
